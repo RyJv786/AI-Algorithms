@@ -1,4 +1,4 @@
-# AI-CS3002
+# AI-Algorithms
 
 Unsupervised Learning: K-Means and Hierachial clustering algorithms were used and compared to see how they group data
 
